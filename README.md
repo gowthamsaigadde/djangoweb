@@ -14,3 +14,4 @@ python manage.py migrate
 Create super user
 django-admin -> click enter
 django-admin createsuperuser -> click enter -> Provide name, email and password
+
